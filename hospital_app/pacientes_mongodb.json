@@ -1,0 +1,167 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "historial_medico": [
+      {
+        "diagnostico": "Dolor muscular",
+        "tratamiento": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "nombre": "Ana",
+    "apellido": "Gomez",
+    "historial_medico": [
+      {
+        "diagnostico": "Cáncer en tratamiento",
+        "tratamiento": "Quimioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "nombre": "Luis",
+    "apellido": "Martinez",
+    "historial_medico": [
+      {
+        "diagnostico": "Lesión física",
+        "tratamiento": "Rehabilitación"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "nombre": "Sofia",
+    "apellido": "Lopez",
+    "historial_medico": [
+      {
+        "diagnostico": "Rehabilitación rodilla",
+        "tratamiento": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "nombre": "Carlos",
+    "apellido": "Ramirez",
+    "historial_medico": [
+      {
+        "diagnostico": "Tratamiento oncológico",
+        "tratamiento": "Quimioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "historial_medico": [
+      {
+        "diagnostico": "Recuperación",
+        "tratamiento": "Rehabilitación"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "nombre": "Pedro",
+    "apellido": "Castro",
+    "historial_medico": [
+      {
+        "diagnostico": "Dolor lumbar",
+        "tratamiento": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "nombre": "Maria",
+    "apellido": "Diaz",
+    "historial_medico": [
+      {
+        "diagnostico": "Quimioterapia",
+        "tratamiento": "Quimioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "nombre": "Jorge",
+    "apellido": "Vargas",
+    "historial_medico": [
+      {
+        "diagnostico": "Rehabilitación",
+        "tratamiento": "Rehabilitación"
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "nombre": "Elena",
+    "apellido": "Rojas",
+    "historial_medico": [
+      {
+        "diagnostico": "Terapia física",
+        "tratamiento": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "nombre": "Andres",
+    "apellido": "Mora",
+    "historial_medico": [
+      {
+        "diagnostico": "Cáncer leve",
+        "tratamiento": "Quimioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "nombre": "Diana",
+    "apellido": "Cruz",
+    "historial_medico": [
+      {
+        "diagnostico": "Fractura",
+        "tratamiento": "Rehabilitación"
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "nombre": "Miguel",
+    "apellido": "Ortiz",
+    "historial_medico": [
+      {
+        "diagnostico": "Dolor cervical",
+        "tratamiento": "Fisioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "nombre": "Paula",
+    "apellido": "Herrera",
+    "historial_medico": [
+      {
+        "diagnostico": "Quimioterapia",
+        "tratamiento": "Quimioterapia"
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "nombre": "Ricardo",
+    "apellido": "Suarez",
+    "historial_medico": [
+      {
+        "diagnostico": "Rehabilitación",
+        "tratamiento": "Rehabilitación"
+      }
+    ]
+  }
+]
